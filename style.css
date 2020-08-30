@@ -27,14 +27,14 @@ body {
     border-top: 5px solid rgb(1, 158, 158);
 }
 
-.container {
+#fContainer {
     width: auto;
     max-width: 680px;
     padding: 0 15px;
 }
 
-.container .text-muted {
+#fContainer .text-muted {
     margin: 20px o;
     text-align: center;
-    padding-top: 15px;
+    padding-top: 13px;
 }
