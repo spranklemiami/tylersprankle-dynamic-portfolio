@@ -1,0 +1,14 @@
+body {
+    background-color: #f0f0f0;
+    font-family: sans;
+}
+
+#navbar {
+    margin-left: 1%;
+    color: #fff;
+    background-color: teal;
+    font-size: 1.5em;
+    font-weight: 900;
+    letter-spacing: .05em;
+    opacity: 0.7;
+}
