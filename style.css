@@ -18,6 +18,23 @@ body {
     letter-spacing: .05em;
 }
 
+#cContainer {
+    margin-top: 4rem;
+}
+
+#aboutMe {
+    color: rgb(1, 158, 158);
+    font-size: 3rem;
+    font-weight: 600;
+}
+
+#tPhoto {
+    float: left;
+    width: 150px;
+    height: 175px;
+    margin: 0 1rem 0 0;
+}
+
 .footer {
     position: absolute;
     bottom: 0;
