@@ -18,6 +18,12 @@ body {
     letter-spacing: .05em;
 }
 
+#pImgs img {
+    width: 350px;
+    height: 350px;
+    padding: 20px;
+}
+
 .card {
     margin: 2rem;
 }
@@ -54,7 +60,7 @@ form {
 }
 
 #submit {
-    margin-top: 4px;
+    margin-top: 6px;
     height: 50px;
     width: 100px;
     color: #fff;
